@@ -2,7 +2,7 @@
 Проект выполнил - Denis Grosu
 
 ## Исполизуемые технологий
-HTML
-CSS
-Normalize.css
-SVG.Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG.Sprites
